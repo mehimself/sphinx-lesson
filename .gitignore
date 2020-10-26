@@ -5,3 +5,6 @@ venv*
 /build
 /dist
 /.idea
+/.jupyter_cache
+/jupyter_execute
+*.pyc
